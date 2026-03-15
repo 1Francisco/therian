@@ -112,7 +112,7 @@ export default function Result({ scores, onRestart }) {
 
                 {gifUrl && (
                     <div style={{ width: '150px', height: '150px', margin: '0 auto', borderRadius: '50%', overflow: 'hidden', border: `4px solid ${result.color}`, marginBottom: '1rem', boxShadow: `0 0 20px ${result.color}88` }}>
-                        <img src={gifUrl} alt="Therian Gif" style={{ width: '100%', height: '100%', objectFit: 'cover' }} crossOrigin="anonymous" />
+                        <img src={gifUrl} alt="Therian Gif" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
                     </div>
                 )}
 
