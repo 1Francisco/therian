@@ -60,8 +60,8 @@ export const therianResults = {
     description: "Eres el papá/mamá del grupo, aunque nadie te lo pidió. Eres súper leal pero a veces das 'cringe' de lo intenso que eres defendiendo a tus compas. Probablemente usaste filtro de perrito o lobo en Snapchat en 2016 y nunca lo superaste. Tienes alma de líder (o eso te gusta creer frente al espejo).",
     color: "#6b7280", // Gray
     gifs: [
-      "https://media.tenor.com/images/cefb8f98ff1f175ab5ec88a7c9bcacb6/tenor.gif",
-      "https://media.tenor.com/images/840d2109e32edfacca17b189ff9afb83/tenor.gif"
+      "https://media.tenor.com/PZ8rR6HLEbQAAAAi/wolf-howling.gif",
+      "https://media.tenor.com/3Yp71Xf7lSMAAAAi/dog-wolf.gif"
     ],
     flags: {
       green: "Das la vida por tus amigos sinceros.",
@@ -75,8 +75,8 @@ export const therianResults = {
     description: "Crees que eres un genio del engaño pero todos saben cuando mientes. Eres independiente, sarcástico y probablemente tu lenguaje del amor sea bullear a la gente que quieres. Tienes una carpeta de memes robados que usas como escudo emocional.",
     color: "#f97316", // Orange
     gifs: [
-      "https://media.tenor.com/images/2b7c6bdc58fd9b008d3e2ebc7a23c3b0/tenor.gif",
-      "https://media.tenor.com/images/0091aa46036125c16ab723f5bda2ddc3/tenor.gif"
+      "https://media.tenor.com/eH2wE6D1NpwAAAAi/fox-laughing.gif",
+      "https://media.tenor.com/F0v92W_3-oAAAAAi/fox.gif"
     ],
     flags: {
       green: "Haces reír a los demás y tienes el mejor gusto musical.",
@@ -90,8 +90,8 @@ export const therianResults = {
     description: "Te crees la gran cosa y la verdad... sí lo eres. Tienes 'resting bitch face' el 90% del tiempo. Solo te gusta que te den amor en tus propios términos; si alguien se pasa de cariñoso, le clavas el 'visto'. Si reencarnaras, definitivamente serías un bicho pidiendo whiskas caras y durmiendo 18 horas.",
     color: "#8b5cf6", // Purple
     gifs: [
-      "https://media.tenor.com/images/15009a259bb8ed540cfa0b377fc039b0/tenor.gif",
-      "https://media.tenor.com/images/220ca33c467a36fac43e061ddbdcf0af/tenor.gif"
+      "https://media.tenor.com/Qj0aG5Fk3VwAAAAi/cat-stare.gif",
+      "https://media.tenor.com/YwN9qR2lA7EAAAAi/cat-funny.gif"
     ],
     flags: {
       green: "Independiente y sabes establecer límites claros al segundo.",
@@ -105,8 +105,8 @@ export const therianResults = {
     description: "Reales vibras de 'Main Character'. Eres extra, dramático y tienes estándares ridículamente altos para todo. Amas coleccionar cosas brillosas (probablemente cuarzos, anillos baratos o pop figures). Te enojas de 0 a 100 en tres segundos pero se te pasa rápido. Te crees Targaryen, acéptalo.",
     color: "#ef4444", // Red
     gifs: [
-      "https://media.tenor.com/images/cfeb7b8b21baae7cbbf9f12d8a65f9c9/tenor.gif",
-      "https://media.tenor.com/images/e387c14a2bb6bc4882dc8d61ccbac1d3/tenor.gif"
+      "https://media.tenor.com/x4h2_R5_eY8AAAAi/dragon-fire.gif",
+      "https://media.tenor.com/m4h84F7-oP0AAAAi/dragon-cute.gif"
     ],
     flags: {
       green: "No te dejas pisotear por absolutamente nadie.",
@@ -120,8 +120,8 @@ export const therianResults = {
     description: "Eres pura vibra positiva, un poco caótico y no tienes pensamientos complejos en la cabeza. Te ilusionas rápido, amas a todos y si alguien te trata medio bien ya estás armando la boda en Pinterest. Todos te quieren porque eres literalmente inofensivo y das buenos abrazos.",
     color: "#eab308", // Yellow
     gifs: [
-      "https://media.tenor.com/images/e8c9c6f600f951f21db261e47dedbb9b/tenor.gif",
-      "https://media.tenor.com/images/3a38891d4411139e6a048a17684d09fc/tenor.gif"
+      "https://media.tenor.com/qLhQ_z9DIfkAAAAi/golden-retriever-dog.gif",
+      "https://media.tenor.com/B942N4fQ58EAAAAi/happy-dog.gif"
     ],
     flags: {
       green: "Siempre estás ahí para escuchar y dar soporte emocional gratis.",
@@ -135,8 +135,8 @@ export const therianResults = {
     description: "Tu sistema nervioso siempre está en rojo. Pides perdón por respirar. Te asustas cuando suena tu propio celular o si alguien te mira fijo por más de dos segundos. Tu zona de confort es una cobijita y escuchar lluvia falsa en Spotify. Literalmente necesitas un abrazo, ven aquí.",
     color: "#a16207", // Brown
     gifs: [
-      "https://media.tenor.com/images/40ea317c46927bf755fb0a747fb6f6f1/tenor.gif",
-      "https://media.tenor.com/images/6df0de72bbdf9bf1eec7ddba8af83131/tenor.gif"
+      "https://media.tenor.com/_q17-b67kI8AAAAi/deer-cute.gif",
+      "https://media.tenor.com/4WJ4yH-c6E8AAAAi/deer.gif"
     ],
     flags: {
       green: "Súper empático/a. Entiendes las emociones de todos sin que hablen.",
