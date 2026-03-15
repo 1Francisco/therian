@@ -58,36 +58,120 @@ export const therianResults = {
     name: "Lobo (El Intensito)",
     emoji: "🐺",
     description: "Eres el papá/mamá del grupo, aunque nadie te lo pidió. Eres súper leal pero a veces das 'cringe' de lo intenso que eres defendiendo a tus compas. Probablemente usaste filtro de perrito o lobo en Snapchat en 2016 y nunca lo superaste. Tienes alma de líder (o eso te gusta creer frente al espejo).",
-    color: "#6b7280" // Gray
+    color: "#6b7280", // Gray
+    gifs: [
+      "/gifs/wolf-1.gif",
+      "/gifs/wolf-2.gif",
+      "/gifs/wolf-tenor-1.gif",
+      "/gifs/wolf-tenor-2.gif",
+      "/gifs/wolf-tenor-3.gif",
+      "/gifs/wolf-tenor-4.gif",
+      "/gifs/wolf-tenor-5.gif"
+    ],
+    flags: {
+      green: "Das la vida por tus amigos sinceros.",
+      red: "Demasiado celoso/a. Eres ese amigo que se enoja si salen sin ti."
+    },
+    compatibilidad: { best: "Golden Retriever (El Simp)", worst: "Gato (El Superior)" }
   },
   fox: {
     name: "Zorro (El Manipulador Aesthetic)",
     emoji: "🦊",
     description: "Crees que eres un genio del engaño pero todos saben cuando mientes. Eres independiente, sarcástico y probablemente tu lenguaje del amor sea bullear a la gente que quieres. Tienes una carpeta de memes robados que usas como escudo emocional.",
-    color: "#f97316" // Orange
+    color: "#f97316", // Orange
+    gifs: [
+      "/gifs/fox-1.gif",
+      "/gifs/fox-2.gif",
+      "/gifs/fox-tenor-1.gif",
+      "/gifs/fox-tenor-2.gif",
+      "/gifs/fox-tenor-3.gif",
+      "/gifs/fox-tenor-4.gif",
+      "/gifs/fox-tenor-5.gif"
+    ],
+    flags: {
+      green: "Haces reír a los demás y tienes el mejor gusto musical.",
+      red: "Nadie sabe si estás bromeando o insultándolos en serio."
+    },
+    compatibilidad: { best: "Dragón (El Megalómano)", worst: "Ciervo (La Víctima Ansiosa)" }
   },
   cat: {
     name: "Gato (El Superior)",
     emoji: "🐈‍⬛",
     description: "Te crees la gran cosa y la verdad... sí lo eres. Tienes 'resting bitch face' el 90% del tiempo. Solo te gusta que te den amor en tus propios términos; si alguien se pasa de cariñoso, le clavas el 'visto'. Si reencarnaras, definitivamente serías un bicho pidiendo whiskas caras y durmiendo 18 horas.",
-    color: "#8b5cf6" // Purple
+    color: "#8b5cf6", // Purple
+    gifs: [
+      "/gifs/cat-1.gif",
+      "/gifs/cat-2.gif",
+      "/gifs/cat-tenor-1.gif",
+      "/gifs/cat-tenor-2.gif",
+      "/gifs/cat-tenor-3.gif",
+      "/gifs/cat-tenor-4.gif",
+      "/gifs/cat-tenor-5.gif"
+    ],
+    flags: {
+      green: "Independiente y sabes establecer límites claros al segundo.",
+      red: "Egoísta profesional. Ignoras mensajes porque 'estabas ocupado/a' (viendo TikTok)."
+    },
+    compatibilidad: { best: "Ciervo (La Víctima Ansiosa)", worst: "Lobo (El Intensito)" }
   },
   dragon: {
     name: "Dragón (El Megalómano)",
     emoji: "🐉",
     description: "Reales vibras de 'Main Character'. Eres extra, dramático y tienes estándares ridículamente altos para todo. Amas coleccionar cosas brillosas (probablemente cuarzos, anillos baratos o pop figures). Te enojas de 0 a 100 en tres segundos pero se te pasa rápido. Te crees Targaryen, acéptalo.",
-    color: "#ef4444" // Red
+    color: "#ef4444", // Red
+    gifs: [
+      "/gifs/dragon-1.gif",
+      "/gifs/dragon-2.gif",
+      "/gifs/dragon-tenor-1.gif",
+      "/gifs/dragon-tenor-2.gif",
+      "/gifs/dragon-tenor-3.gif",
+      "/gifs/dragon-tenor-4.gif",
+      "/gifs/dragon-tenor-5.gif"
+    ],
+    flags: {
+      green: "No te dejas pisotear por absolutamente nadie.",
+      red: "Gritas cuando te frustras en videojuegos o debatiendo."
+    },
+    compatibilidad: { best: "Zorro (El Manipulador Aesthetic)", worst: "Lobo (El Intensito)" }
   },
   dog: {
     name: "Golden Retriever (El Simp)",
     emoji: "🐕",
     description: "Eres pura vibra positiva, un poco caótico y no tienes pensamientos complejos en la cabeza. Te ilusionas rápido, amas a todos y si alguien te trata medio bien ya estás armando la boda en Pinterest. Todos te quieren porque eres literalmente inofensivo y das buenos abrazos.",
-    color: "#eab308" // Yellow
+    color: "#eab308", // Yellow
+    gifs: [
+      "/gifs/dog-1.gif",
+      "/gifs/dog-2.gif",
+      "/gifs/dog-tenor-1.gif",
+      "/gifs/dog-tenor-2.gif",
+      "/gifs/dog-tenor-3.gif",
+      "/gifs/dog-tenor-4.gif",
+      "/gifs/dog-tenor-5.gif"
+    ],
+    flags: {
+      green: "Siempre estás ahí para escuchar y dar soporte emocional gratis.",
+      red: "No sabes decir que 'NO' y terminas exhausto/a por quedar bien."
+    },
+    compatibilidad: { best: "Lobo (El Intensito)", worst: "Gato (El Superior)" }
   },
   deer: {
     name: "Ciervo (La Víctima Ansiosa)",
     emoji: "🦌",
     description: "Tu sistema nervioso siempre está en rojo. Pides perdón por respirar. Te asustas cuando suena tu propio celular o si alguien te mira fijo por más de dos segundos. Tu zona de confort es una cobijita y escuchar lluvia falsa en Spotify. Literalmente necesitas un abrazo, ven aquí.",
-    color: "#a16207" // Brown
+    color: "#a16207", // Brown
+    gifs: [
+      "/gifs/deer-1.gif",
+      "/gifs/deer-2.gif",
+      "/gifs/deer-tenor-1.gif",
+      "/gifs/deer-tenor-2.gif",
+      "/gifs/deer-tenor-3.gif",
+      "/gifs/deer-tenor-4.gif",
+      "/gifs/deer-tenor-5.gif"
+    ],
+    flags: {
+      green: "Súper empático/a. Entiendes las emociones de todos sin que hablen.",
+      red: "Overthinker nivel Dios. Piensas que todos te odian si te responden 'ok'."
+    },
+    compatibilidad: { best: "Gato (El Superior)", worst: "Zorro (El Manipulador Aesthetic)" }
   }
 };
