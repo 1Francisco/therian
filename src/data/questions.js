@@ -61,7 +61,12 @@ export const therianResults = {
     color: "#6b7280", // Gray
     gifs: [
       "/gifs/wolf-1.gif",
-      "/gifs/wolf-2.gif"
+      "/gifs/wolf-2.gif",
+      "/gifs/wolf-tenor-1.gif",
+      "/gifs/wolf-tenor-2.gif",
+      "/gifs/wolf-tenor-3.gif",
+      "/gifs/wolf-tenor-4.gif",
+      "/gifs/wolf-tenor-5.gif"
     ],
     flags: {
       green: "Das la vida por tus amigos sinceros.",
@@ -76,7 +81,12 @@ export const therianResults = {
     color: "#f97316", // Orange
     gifs: [
       "/gifs/fox-1.gif",
-      "/gifs/fox-2.gif"
+      "/gifs/fox-2.gif",
+      "/gifs/fox-tenor-1.gif",
+      "/gifs/fox-tenor-2.gif",
+      "/gifs/fox-tenor-3.gif",
+      "/gifs/fox-tenor-4.gif",
+      "/gifs/fox-tenor-5.gif"
     ],
     flags: {
       green: "Haces reír a los demás y tienes el mejor gusto musical.",
@@ -91,7 +101,12 @@ export const therianResults = {
     color: "#8b5cf6", // Purple
     gifs: [
       "/gifs/cat-1.gif",
-      "/gifs/cat-2.gif"
+      "/gifs/cat-2.gif",
+      "/gifs/cat-tenor-1.gif",
+      "/gifs/cat-tenor-2.gif",
+      "/gifs/cat-tenor-3.gif",
+      "/gifs/cat-tenor-4.gif",
+      "/gifs/cat-tenor-5.gif"
     ],
     flags: {
       green: "Independiente y sabes establecer límites claros al segundo.",
@@ -106,7 +121,12 @@ export const therianResults = {
     color: "#ef4444", // Red
     gifs: [
       "/gifs/dragon-1.gif",
-      "/gifs/dragon-2.gif"
+      "/gifs/dragon-2.gif",
+      "/gifs/dragon-tenor-1.gif",
+      "/gifs/dragon-tenor-2.gif",
+      "/gifs/dragon-tenor-3.gif",
+      "/gifs/dragon-tenor-4.gif",
+      "/gifs/dragon-tenor-5.gif"
     ],
     flags: {
       green: "No te dejas pisotear por absolutamente nadie.",
@@ -121,7 +141,12 @@ export const therianResults = {
     color: "#eab308", // Yellow
     gifs: [
       "/gifs/dog-1.gif",
-      "/gifs/dog-2.gif"
+      "/gifs/dog-2.gif",
+      "/gifs/dog-tenor-1.gif",
+      "/gifs/dog-tenor-2.gif",
+      "/gifs/dog-tenor-3.gif",
+      "/gifs/dog-tenor-4.gif",
+      "/gifs/dog-tenor-5.gif"
     ],
     flags: {
       green: "Siempre estás ahí para escuchar y dar soporte emocional gratis.",
@@ -136,7 +161,12 @@ export const therianResults = {
     color: "#a16207", // Brown
     gifs: [
       "/gifs/deer-1.gif",
-      "/gifs/deer-2.gif"
+      "/gifs/deer-2.gif",
+      "/gifs/deer-tenor-1.gif",
+      "/gifs/deer-tenor-2.gif",
+      "/gifs/deer-tenor-3.gif",
+      "/gifs/deer-tenor-4.gif",
+      "/gifs/deer-tenor-5.gif"
     ],
     flags: {
       green: "Súper empático/a. Entiendes las emociones de todos sin que hablen.",
